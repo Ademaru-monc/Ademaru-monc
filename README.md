@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Ademaru 👋</h1>
+<p align="center">
+  <h1 align="center">Hi, I'm Ademaru 👋</h1>
+</p>
 
 <p align="center">
   Product Designer & Design Team Lead
@@ -32,9 +34,9 @@ Check the pinned repositories below for recent work — including product concep
 
 ### 📫 Get in touch
 
-- Portfolio: https://drive.google.com/drive/folders/1E5Rr2-pACItHzhnPPHcJDOiAeVC-gu0N?usp=drive_link
-- Telegram: [@adventuretime_seo](https://t.me/adventuretime_seo)
-- LinkedIn: [pasha-monz](https://www.linkedin.com/in/pasha-monz-616817428/?isSelfProfile=true)
+- [Portfolio](https://drive.google.com/drive/folders/1E5Rr2-pACItHzhnPPHcJDOiAeVC-gu0N?usp=drive_link)
+- [Telegram](https://t.me/adventuretime_seo)
+- [LinkedIn](https://www.linkedin.com/in/pasha-monz-616817428/?isSelfProfile=true)
 
 ---
 
