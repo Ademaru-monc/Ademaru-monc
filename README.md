@@ -55,12 +55,6 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ademaru-monc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&text_color=C9D1D9" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademaru-monc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E56CF&text_color=C9D1D9" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ademaru-monc&theme=radical&hide_border=true&background=0D1117&stroke=6E56CF&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF" alt="GitHub Streak"/>
 </p>
 
