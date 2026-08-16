@@ -1,17 +1,38 @@
-<p align="center">
-  <h1 align="center">Hi, I'm Ademaru 👋</h1>
-</p>
+<h1 align="center">Hi, I'm Ademaru 👋</h1>
 
 <p align="center">
   Product Designer & Design Team Lead
 </p>
 
+<!-- БЛОК С ПРИВЕТСТВИЕМ / ОПИСАНИЕМ -->
+<p align="center">
+  <i>🚀 Designing high-load B2B platforms and bridging the gap between design & frontend.<br>
+  I turn complex Figma concepts into live, pixel-perfect products — solo or with a team.</i>
+</p>
+
+<!-- БЕЙДЖИ СОЦСЕТЕЙ И СТАТУСА (КЛИКАБЕЛЬНЫЕ) -->
+<p align="center">
+  <a href="https://t.me/adventuretime_seo">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pasha-monz-616817428/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1E5Rr2-pACItHzhnPPHcJDOiAeVC-gu0N?usp=drive_link">
+    <img src="https://img.shields.io/badge/Portfolio-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ademaru&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<!-- БЕЙДЖИ ТЕХНОЛОГИЙ И НАВЫКОВ -->
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Platforms-189EFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude%20%26%20Cursor-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design%20Systems-D4380D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20work-2EA043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design_Systems-D4380D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web_Platforms-189EFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_(Claude_&_Cursor)-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Remote-2EA043?style=flat-square" />
 </p>
 
 ---
@@ -34,9 +55,9 @@ Check the pinned repositories below for recent work — including product concep
 
 ### 📫 Get in touch
 
-- [Portfolio](https://drive.google.com/drive/folders/1E5Rr2-pACItHzhnPPHcJDOiAeVC-gu0N?usp=drive_link)
-- [Telegram](https://t.me/adventuretime_seo)
-- [LinkedIn](https://www.linkedin.com/in/pasha-monz-616817428/?isSelfProfile=true)
+- Portfolio: https://drive.google.com/drive/folders/1E5Rr2-pACItHzhnPPHcJDOiAeVC-gu0N?usp=drive_link
+- Telegram: [@adventuretime_seo](https://t.me/adventuretime_seo)
+- LinkedIn: [pasha-monz](https://www.linkedin.com/in/pasha-monz-616817428/?isSelfProfile=true)
 
 ---
 
