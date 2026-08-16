@@ -46,9 +46,15 @@
 
 ---
 
-### 🛠️ Tools & Stack
+### 🛠️ Skills
 
-`Figma` · `Design Systems` · `Web Platforms (e-commerce)` · `Claude AI` · `Cursor AI` · `HTML / CSS` · `AI-assisted full-cycle implementation` · `Frontend collaboration`
+**Design**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Design Systems](https://img.shields.io/badge/-Design_Systems-E03131?style=flat-square)
+
+**Implementation**  
+![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![AI Tools](https://img.shields.io/badge/-Claude_%26_Cursor-E03131?style=flat-square)
 
 ---
 
