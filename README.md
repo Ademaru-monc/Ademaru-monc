@@ -78,3 +78,7 @@ Check the pinned repositories below for recent work — including product concep
 ---
 
 <p align="center"><i>Currently exploring remote opportunities — always open to interesting projects.</i></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake.svg" alt="Snake animation" />
+</p>
