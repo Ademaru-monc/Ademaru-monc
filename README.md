@@ -57,11 +57,11 @@
 
 <!-- Statistics -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ademaru&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ademaru&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademaru&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademaru&layout=compact&theme=radical&hide_border=true&v=1" alt="Top languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ademaru&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ademaru&theme=radical&hide_border=true&v=1" alt="GitHub streak" />
 </p>
 
 ---
