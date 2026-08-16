@@ -64,9 +64,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake.svg" alt="Snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake-light.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake.svg?v=2" alt="Snake animation" />
   </picture>
 </p>
 
