@@ -4,26 +4,29 @@
   Product Designer & Design Team Lead
 </p>
 
-<!-- typeing effect -->
+<!-- typing effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6E56CF&center=true&vCenter=true&width=500&lines=Designing+for+B2B+platforms;Leading+cross-functional+teams;Building+with+AI+(Claude+%26+Cursor);Bridging+design+and+frontend" alt="Typing SVG" />
 </p>
 
-<!-- bage status and social media -->
+<!-- Badge status and social media -->
 <p align="center">
   <a href="https://t.me/adventuretime_seo">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/pasha-monz-616817428/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://drive.google.com/drive/folders/1E5Rr2-pACItHzhnPPHcJDOiAeVc-gu0N?usp=drive_link">
     <img src="https://img.shields.io/badge/Portfolio-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Ademaru&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<!--bage skill and technologi -->
+<!-- Badge skill and technology -->
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Design_Systems-D4380D?style=flat-square" />
@@ -52,9 +55,10 @@
 
 ### 📊 GitHub Statistics
 
-<!-- Statistick -->
+<!-- Statistics -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ademaru&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademaru&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ademaru&theme=radical&hide_border=true" alt="GitHub streak" />
@@ -78,4 +82,3 @@ Check the pinned repositories below for recent work — including product concep
 ---
 
 <p align="center"><i>Currently exploring remote opportunities — always open to interesting projects.</i></p>
-
