@@ -82,7 +82,8 @@
 
 ### 📌 Featured
 
-Check the pinned repositories below for recent work — product concepts, design system experiments, and site builds.
+Check the pinned repositories below for recent work — including product concepts, design system experiments, and site builds.
+
 ---
 
 <p align="center">
