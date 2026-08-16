@@ -80,9 +80,15 @@
 
 ---
 
-### 📌 Featured
+### 📌 Featured Work
 
-Check the pinned repositories below for recent work — product concepts, design system experiments, and site builds.
+> Здесь будут твои лучшие проекты. Пока можешь поставить заглушки.
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Design System** | Компонентная библиотека + токены | [View](#) |
+| **B2B Platform** | Дизайн и частичная реализация | [View](#) |
+| **AI Experiments** | Работа с Claude + Cursor | [View](#) |
 
 ---
 
