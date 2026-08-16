@@ -48,13 +48,13 @@
 
 ### 🛠️ Skills
 
-**Design**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Design Systems](https://img.shields.io/badge/-Design_Systems-E03131?style=flat-square)
-
-**Implementation**  
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![AI Tools](https://img.shields.io/badge/-Claude_%26_Cursor-E03131?style=flat-square)
+| Skill              | Level |
+|--------------------|-------|
+| Figma              | ![](https://progress-bar.dev/95/?title=Figma&width=280&color=e03131) |
+| Design Systems     | ![](https://progress-bar.dev/90/?title=Design%20Systems&width=280&color=e03131) |
+| HTML / CSS         | ![](https://progress-bar.dev/80/?title=HTML%20/%20CSS&width=280&color=e03131) |
+| AI (Claude/Cursor) | ![](https://progress-bar.dev/85/?title=AI%20Tools&width=280&color=e03131) |
+| Team Leadership    | ![](https://progress-bar.dev/88/?title=Team%20Leadership&width=280&color=e03131) |
 
 ---
 
