@@ -46,15 +46,17 @@
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Skills & Tools
 
-| Skill              | Level |
-|--------------------|-------|
-| Figma              | ![](https://progress-bar.dev/95/?title=Figma&width=280&color=e03131) |
-| Design Systems     | ![](https://progress-bar.dev/90/?title=Design%20Systems&width=280&color=e03131) |
-| HTML / CSS         | ![](https://progress-bar.dev/80/?title=HTML%20/%20CSS&width=280&color=e03131) |
-| AI (Claude/Cursor) | ![](https://progress-bar.dev/85/?title=AI%20Tools&width=280&color=e03131) |
-| Team Leadership    | ![](https://progress-bar.dev/88/?title=Team%20Leadership&width=280&color=e03131) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,vscode,git,github" />
+</p>
+
+**Core**  
+`Figma` · `Design Systems` · `Design Tokens` · `Component Libraries`
+
+**Implementation**  
+`HTML/CSS` · `Claude AI` · `Cursor` · `Frontend Collaboration`
 
 ---
 
