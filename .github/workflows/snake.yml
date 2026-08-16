@@ -18,9 +18,9 @@ jobs:
         with:
           github_user_name: Ademaru-monc
           outputs: |
-            dist/snake.svg?color_snake=#FF2A2A&color_dots=#0D1117,#1A0A0A,#3D1010,#8B1A1A,#FF2A2A
-            dist/snake-dark.svg?palette=github-dark&color_snake=#FF2A2A&color_dots=#0D1117,#1A0A0A,#3D1010,#8B1A1A,#FF2A2A
-            dist/snake-light.svg?color_snake=#FF2A2A&color_dots=#F0F0F0,#E8C8C8,#D08080,#C04040,#FF2A2A
+            dist/snake.svg?color_snake=#FF2A2A&color_dots=#1c2128,#2e1a1a,#4a2424,#8b2e2e,#FF2A2A
+            dist/snake-dark.svg?palette=github-dark&color_snake=#FF2A2A&color_dots=#1c2128,#2e1a1a,#4a2424,#8b2e2e,#FF2A2A
+            dist/snake-light.svg?color_snake=#FF2A2A&color_dots=#ebedf0,#f0d0d0,#e0a0a0,#d06060,#FF2A2A
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
