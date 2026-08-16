@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6E56CF&center=true&vCenter=true&width=520&lines=Designing+for+B2B+platforms;Leading+cross-functional+teams;Building+with+AI+(Claude+%26+Cursor);Bridging+design+and+frontend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=E03131&center=true&vCenter=true&width=520&lines=Designing+for+B2B+platforms;Leading+cross-functional+teams;Building+with+AI+(Claude+%26+Cursor);Bridging+design+and+frontend" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,16 +21,16 @@
     <img src="https://img.shields.io/badge/Portfolio-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Ademaru&color=6E56CF&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ademaru&color=E03131&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Design_Systems-6E56CF?style=flat-square" alt="Design Systems"/>
+  <img src="https://img.shields.io/badge/Design_Systems-E03131?style=flat-square" alt="Design Systems"/>
   <img src="https://img.shields.io/badge/Web_Platforms-1890FF?style=flat-square" alt="Web Platforms"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/AI_(Claude_&_Cursor)-6E56CF?style=flat-square" alt="AI"/>
+  <img src="https://img.shields.io/badge/AI_(Claude_&_Cursor)-E03131?style=flat-square" alt="AI"/>
   <img src="https://img.shields.io/badge/Status-Open_to_Remote-2EA043?style=flat-square" alt="Open to Remote"/>
 </p>
 
@@ -52,10 +52,10 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ademaru-monc&theme=radical&hide_border=true&background=0D1117&stroke=6E56CF&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ademaru-monc&theme=radical&hide_border=true&background=0D1117&stroke=E03131&ring=E03131&fire=E03131&currStreakLabel=E03131" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -63,7 +63,11 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/Ademaru-monc/Ademaru-monc/output/snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
