@@ -63,9 +63,8 @@
 ### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ademaru-monc&theme=dark&hide_border=true&background=0D1117&ring=E03131&fire=E03131&currStreakNum=E03131&sideNums=E03131&currStreakLabel=E03131&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ademaru-monc&theme=dark&hide_border=true&background=0D1117&ring=E03131&fire=E03131&currStreakNum=E03131&sideNums=E03131&currStreakLabel=E03131&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🐍 Contribution Snake
